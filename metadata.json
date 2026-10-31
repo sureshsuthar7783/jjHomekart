@@ -1,0 +1,8 @@
+{
+  "name": "JJ Homekart - Furniture Manufacturer & Wholesaler Bengaluru",
+  "description": "Premium custom wooden home furniture manufacturer & wholesaler in Ramamurthy Nagar, Bengaluru. Handcrafted sofas, wardrobes, LED TV cabinets, shoe racks, and direct factory pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
